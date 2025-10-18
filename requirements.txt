@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+pypdf
+pymupdf
+langchain_huggingface
+langchain-tavily
+reportlab
+streamlit
+langgraph
+langchain-groq
