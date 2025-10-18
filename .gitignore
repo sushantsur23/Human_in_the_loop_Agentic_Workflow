@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+lang/
+test1_copy.py
+test1_copy_copy.py
