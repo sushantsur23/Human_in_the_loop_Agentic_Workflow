@@ -102,8 +102,7 @@ Start the Streamlit app:
 ```bash
 streamlit run app/mainapp.py
 ```
-Then visit the dashboard at:
-👉 http://localhost:8501
+
 
 🐳 Running with Docker
 Step 1 — Build the Docker Image
