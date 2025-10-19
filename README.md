@@ -17,8 +17,8 @@ The system runs multiple analysts (agents) in **parallel**, aggregates their out
 
 ## 🏗️ Architecture
 
+```mermaid
 
-graph TD
     A[User Input via Streamlit UI] --> B[LangGraph State Manager]
     B --> C1[Analyst Creation Node]
     B --> C2[Human Feedback Node]
