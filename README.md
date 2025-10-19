@@ -69,11 +69,13 @@ product_launch_ai/
 ├── .env.example
 └── README.md
 
+
+
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/product_launch_ai.git
+git clone https://github.com/sushantsur23/Human_in_the_loop_Agentic_Workflow.git
 cd product_launch_ai
 ```
 
@@ -129,10 +131,15 @@ Now open your browser to:
 🧠 Core Features
 
 ✅ Multi-Agent Analysis — Each agent acts as a specialized strategist.
+
 ✅ SWOT & Competitor Insight — Grounded in live search data.
+
 ✅ Interactive Refinement — Regenerate improved analyst reports based on your feedback.
+
 ✅ Structured LLM Outputs — Schema-validated JSON ensures accuracy.
+
 ✅ PDF Export — Beautiful, structured analyst report.
+
 ✅ Docker Ready — Consistent and reproducible deployments.
 
 📊 Example Workflow
